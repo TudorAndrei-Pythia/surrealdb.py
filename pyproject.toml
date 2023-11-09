@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "surrealdb-pydanticv2"
+name = "surrealdb2"
 version = "0.3.2"
-description = "The official SurrealDB library for Python."
+description = "The unofficial SurrealDB library for Python, now working with Pydantic v2.0"
 readme = "README.md"
 authors = ["SurrealDB"]
 license = "Apache-2.0"
